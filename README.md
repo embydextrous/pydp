@@ -1,2 +1,2 @@
 # pydp
-Dynamic Programming Problems in Python
+Dynamic Programming Problems in Python.
