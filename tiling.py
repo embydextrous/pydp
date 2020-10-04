@@ -24,6 +24,8 @@ For a 2 x 4 board, there are 5 ways
 4) First 2 horizontal, remaining 2 vertical
 5) Corner 2 vertical, middle 2 horizontal
 '''
+
+# This problem actually reduces to finding nth fibonacci number.
 def tiling(n):
     if n == 1 or n == 2:
         return n
